@@ -1,0 +1,6 @@
+source_image  = "ubuntu_18_04_x64_20G_alibase_20220208.vhd"
+image_name    = "ubuntu-docker"
+region        = "ap-southeast-5"
+instance_type = "ecs.t6-c1m1.large"
+access_key    = "<your_access_key>"
+secret_key    = "<your_secret_key>"
